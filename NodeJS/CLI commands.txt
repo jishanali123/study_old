@@ -1,0 +1,15 @@
+npm init - create a basic package.json file
+
+npm install body-parser       - install body-parser module from npm repository
+npm install body-parser --save       - install and locally save in project, body-parser module from npm repository
+
+var bodyParser = require('body-parser');  - requiring a already installed node module
+var localConfic = require('./config');  - requiring a local project folder/file config which is at the same level as this file.
+
+npm start - 
+
+npm run build - 
+
+npm test - 
+
+
