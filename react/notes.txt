@@ -1,0 +1,13 @@
+https://facebook.github.io/create-react-app/docs/running-tests
+
+https://reactjs.org/docs/getting-started.html
+
+---------------*************************
+Creating a React App… From Scratch.
+https://blog.usejournal.com/creating-a-react-app-from-scratch-f3c693b84658
+
+-------------*************************
+I finally made sense of front end build tools. You can, too.
+https://medium.freecodecamp.org/making-sense-of-front-end-build-tools-3a1b3a87043b
+----------*********************
+
