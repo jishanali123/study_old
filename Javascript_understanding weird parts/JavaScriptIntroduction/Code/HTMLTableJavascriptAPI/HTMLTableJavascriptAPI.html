@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>JavaScript can change table content on the fly</title>
+<link rel="stylesheet" href="css/main.css">
+<script src="script/main.js"></script>
+</head>
+<body onload="buildTableHeader();">
+  <h2>Contact list</h2>
+  <button onclick="buildTable();">Click to build the table!</button>
+  <table>
+    <thead id="tHeadId">
+    </thead>
+    <tbody id="tableContactBody">
+    </tbody>
+  </table>
+	<footer>W3Cx JavaScript intro MOOC</footer>
+</body>
+</html>
