@@ -1,0 +1,25 @@
+.Blog ul {
+    list-style-type: disc;
+    padding: 0;
+    margin: 0;
+    text-align: center;
+}
+
+.Blog li {
+    margin: 20px;
+    display: inline-block;
+}
+
+.Blog a {
+    text-decoration: burlywood;
+    color: black;
+}
+
+.Blog a:hover,
+.Blog a:active {
+    color: crimson;
+}
+
+.Blog a.active {
+    color: chartreuse;
+}
